@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+<head>
+<title>Travel360</Title>
+</head>
+
+
+<body data-ng-app="APIModule">  
+<h2>Welcome to Travel360</h2>  
+<h3>Finds the lowest nonstop fare and the lowest overall fare to many airports.</h3>
+
+<div ng-controller="APIController">
+    <div>
+        <table>
+            <tr>
+                <th>origin</th>
+                <th><input type="text" name="origin" ng-model="FindFlightFares.origin" /></th>
+            </tr>
+            <tr>
+                <th>destination</th>
+                <th><input type="text" name="destination"  ng-model="FindFlightFares.destination"/></th>
+            </tr>
+            <tr>
+                <th>lengthofstay</th>
+                <th><input type="text" name="lengthofstay" ng-model="FindFlightFares.lengthofstay"/></th>
+            </tr>
+            <tr>
+                <th>departuredate</th>
+                <th><input type="text" name="departuredate" ng-model="FindFlightFares.departuredate"/></th>
+            </tr>
+            <tr>
+                <th>minfare</th>
+                <th><input type="text" name="minfare" ng-model="FindFlightFares.minfare" /></th>
+            </tr>
+            <tr>
+                <th>maxfare</th>
+                <th><input type="text" name="maxfare" ng-model="FindFlightFares.maxfare"/></th>
+            </tr>
+            <tr>
+                <th>pointofsalecountry</th>
+                <th><input type="text" name="pointofsalecountry" ng-model="FindFlightFares.pointofsalecountry"/></th>
+            </tr>
+         
+            <tr>
+                <th></th>
+                <th><input type="button" name="submit" value="Find" style="width:200px;margin-top:20px;" ng-click="FindFares()"/></th>
+            </tr>
+        </table>
+    </div>
+    <div  >
+
+        <table>
+            <tr>
+                <th>AirlineCodes</th>
+                <th>Fare</th>
+                <th>CurrencyCode</th>
+            </tr>
+
+            <tr ng-repeat="obj in FindFlightFaresResult.FareInfo">
+                <td>{{obj.LowestFare.AirlineCodes[0]}}</td>
+                <td>{{obj.LowestFare.Fare}}</td>
+                <td>{{obj.CurrencyCode}}</td>
+            </tr>
+
+            
+
+        </table>
+    </div>
+</div>
+</body>  
+</html>
+<script src="angular.js"></script>  
+<script src="angular-route.js"></script>  
+<script src="Travel360.js"></script>  

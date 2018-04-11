@@ -1,0 +1,16 @@
+C:\Users\h129495\Documents\Visual Studio 2017\Projects\Travel360\Utility\obj\Debug\Utility.csprojResolveAssemblyReference.cache
+C:\Users\h129495\Documents\Visual Studio 2017\Projects\Travel360\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+C:\Users\h129495\Documents\Visual Studio 2017\Projects\Travel360\Utility\bin\Debug\Utility.dll.config
+C:\Users\h129495\Documents\Visual Studio 2017\Projects\Travel360\Utility\bin\Debug\Utility.dll
+C:\Users\h129495\Documents\Visual Studio 2017\Projects\Travel360\Utility\bin\Debug\Utility.pdb
+C:\Users\h129495\Documents\Visual Studio 2017\Projects\Travel360\Utility\bin\Debug\Newtonsoft.Json.dll
+C:\Users\h129495\Documents\Visual Studio 2017\Projects\Travel360\Utility\bin\Debug\System.Net.Http.dll
+C:\Users\h129495\Documents\Visual Studio 2017\Projects\Travel360\Utility\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\h129495\Documents\Visual Studio 2017\Projects\Travel360\Utility\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\h129495\Documents\Visual Studio 2017\Projects\Travel360\Utility\bin\Debug\Travel_Model.dll
+C:\Users\h129495\Documents\Visual Studio 2017\Projects\Travel360\Utility\bin\Debug\Travel_Model.pdb
+C:\Users\h129495\Documents\Visual Studio 2017\Projects\Travel360\Utility\bin\Debug\Travel_Model.dll.config
+C:\Users\h129495\Documents\Visual Studio 2017\Projects\Travel360\Utility\bin\Debug\Newtonsoft.Json.xml
+C:\Users\h129495\Documents\Visual Studio 2017\Projects\Travel360\Utility\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\h129495\Documents\Visual Studio 2017\Projects\Travel360\Utility\obj\Debug\Utility.dll
+C:\Users\h129495\Documents\Visual Studio 2017\Projects\Travel360\Utility\obj\Debug\Utility.pdb

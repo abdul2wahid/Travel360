@@ -1,0 +1,11 @@
+C:\Users\h129495\Documents\Visual Studio 2017\Projects\Travel360\Travel_Model\bin\Debug\Travel_Model.dll.config
+C:\Users\h129495\Documents\Visual Studio 2017\Projects\Travel360\Travel_Model\bin\Debug\Travel_Model.dll
+C:\Users\h129495\Documents\Visual Studio 2017\Projects\Travel360\Travel_Model\bin\Debug\Travel_Model.pdb
+C:\Users\h129495\Documents\Visual Studio 2017\Projects\Travel360\Travel_Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\h129495\Documents\Visual Studio 2017\Projects\Travel360\Travel_Model\bin\Debug\System.Net.Http.dll
+C:\Users\h129495\Documents\Visual Studio 2017\Projects\Travel360\Travel_Model\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\h129495\Documents\Visual Studio 2017\Projects\Travel360\Travel_Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\h129495\Documents\Visual Studio 2017\Projects\Travel360\Travel_Model\obj\Debug\Travel_Model.csproj.CoreCompileInputs.cache
+C:\Users\h129495\Documents\Visual Studio 2017\Projects\Travel360\Travel_Model\obj\Debug\Travel_Model.dll
+C:\Users\h129495\Documents\Visual Studio 2017\Projects\Travel360\Travel_Model\obj\Debug\Travel_Model.pdb
+C:\Users\h129495\Documents\Visual Studio 2017\Projects\Travel360\Travel_Model\obj\Debug\Travel_Model.csprojResolveAssemblyReference.cache
